@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <title>Visualizador de PDF</title>
+</head>
+<body>
+  <h1>Visualize o PDF abaixo:</h1>
+  <embed src="SAMPLE 2 Ebook - Prescrição Médica - Paciente Adulto - Ficha Amarela-Vermelha (arrastado).pdf" type="application/pdf" width="100%" height="600px"/>
+  <p>
+    <a href="SAMPLE 2 Ebook - Prescrição Médica - Paciente Adulto - Ficha Amarela-Vermelha (arrastado).pdf" target="_blank">Clique aqui para baixar o PDF</a>
+  </p>
+</body>
+</html>
